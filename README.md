@@ -16,11 +16,8 @@
 
 ```python
 adem = {
-    "location"    : "Kahramanmaraş, Turkey 🇹🇷",
-    "education"   : "International Trade & Logistics @ KSU",
-    "role"        : "Aspiring Data Analyst",
+    "role"        : "Data Analyst",
     "focus"       : ["Data Analysis", "SQL", "Power BI", "Python"],
-    "learning"    : ["Advanced SQL", "Statistics", "English"],
     "goal"        : "Turn raw data into actionable insights 📊"
 }
 ```
